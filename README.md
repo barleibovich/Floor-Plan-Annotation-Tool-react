@@ -21,11 +21,12 @@ A small web app I built to annotate doors and windows on a floor plan image.
 
 ## How to use
 
-1. Open `index.html` in your browser.  
-2. Upload a floor plan image.  
-3. Click and drag to create boxes.  
-4. Enter a label.  
-5. See and manage all annotations in the table below.
+1. Open cmd any type npm run dev
+2. Open browser and insert http://localhost:5173
+3. Upload a floor plan image.  
+4. Click and drag to create boxes.  
+5. Enter a label.  
+6. See and manage all annotations in the table below.
 
 ## Tech used
 
@@ -34,4 +35,4 @@ A small web app I built to annotate doors and windows on a floor plan image.
 - Canvas API  
 - Tailwind CSS  
 - localStorage  
-- html canvas
+- HTML canvas
